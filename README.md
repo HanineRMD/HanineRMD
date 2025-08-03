@@ -16,7 +16,7 @@ Je suis spécialisée dans les écosystèmes **Flutter** et **MEAN**, et j'adore
 
 | Domaine         | Technologies                                                                                             |
 | --------------- | -------------------------------------------------------------------------------------------------------- |
-| **Frontend**    | <img src="https://skillicons.dev/icons?i=flutter,dart,angular,reactnative,html,css,js,bootstrap" />     |
+| **Frontend**    | <img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,html,css,js,bootstrap" />     |
 | **Backend**     | <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs" />                     |
 | **Base de Données** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" />                                      |
 | **DevOps & Outils** | <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> <br/> **CI/CD:** GitHub Actions |
